@@ -1,0 +1,83 @@
+##### USER COLLECTION #####
+Number of users: 5
+--------------------
+UserId: 5	Username: celik	Birthday: 12.5.1966
+Followers: 1	Posts: 0
+Followers:
+	Username: burak_kut
+--------------------
+UserId: 2	Username: tarkan	Birthday: 17.10.1972
+Followers: 1	Posts: 3
+Followers:
+	Username: yasar
+Posts:
+	PostId: 8
+		Author: tarkan
+		Content: Aglamadan ayrilik olmaz, hatiralar uslu durmaz
+	PostId: 10
+		Author: tarkan
+		Content: Gel gunduzle gece olalim, gel gokyuzunde yildiz olalim
+	PostId: 7
+		Author: tarkan
+		Content: Takmis takistirmis, surmus surusturmus. Bir daginiklik, bir rukusluk, kil oldum abi
+--------------------
+UserId: 1	Username: serdar_ortac	Birthday: 16.2.1970
+Followers: 2	Posts: 2
+Followers:
+	Username: celik
+	Username: yasar
+Posts:
+	PostId: 9
+		Author: serdar_ortac
+		Content: Karabiberim vur kadehlere. Hadi icelim, icelim her gece
+	PostId: 11
+		Author: serdar_ortac
+		Content: Ask bu kizil otesi yarali muzesi hareket edemem
+--------------------
+UserId: 4	Username: burak_kut	Birthday: 27.8.1973
+Followers: 1	Posts: 2
+Followers:
+	Username: tarkan
+Posts:
+	PostId: 4
+		Author: burak_kut
+		Content: Benimle oynama soyledim sana, sansini zorlama ugurlar olsun
+	PostId: 5
+		Author: burak_kut
+		Content: Yasandi bitti saygisizca, aldatmanin tadina varinca
+--------------------
+UserId: 3	Username: yasar	Birthday: 5.4.1970
+Followers: 2	Posts: 1
+Followers:
+	Username: serdar_ortac
+	Username: celik
+Posts:
+	PostId: 12
+		Author: yasar
+		Content: Donuyor aman dunya basim duman, batiyor ama acitmiyor senin sevdan
+##### ALL POSTS #####
+Number of posts: 8
+	PostId: 4
+		Author: burak_kut
+		Content: Benimle oynama soyledim sana, sansini zorlama ugurlar olsun
+	PostId: 5
+		Author: burak_kut
+		Content: Yasandi bitti saygisizca, aldatmanin tadina varinca
+	PostId: 7
+		Author: tarkan
+		Content: Takmis takistirmis, surmus surusturmus. Bir daginiklik, bir rukusluk, kil oldum abi
+	PostId: 8
+		Author: tarkan
+		Content: Aglamadan ayrilik olmaz, hatiralar uslu durmaz
+	PostId: 9
+		Author: serdar_ortac
+		Content: Karabiberim vur kadehlere. Hadi icelim, icelim her gece
+	PostId: 10
+		Author: tarkan
+		Content: Gel gunduzle gece olalim, gel gokyuzunde yildiz olalim
+	PostId: 11
+		Author: serdar_ortac
+		Content: Ask bu kizil otesi yarali muzesi hareket edemem
+	PostId: 12
+		Author: yasar
+		Content: Donuyor aman dunya basim duman, batiyor ama acitmiyor senin sevdan

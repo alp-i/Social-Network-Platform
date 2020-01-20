@@ -1,0 +1,60 @@
+##### USER COLLECTION #####
+Number of users: 3
+--------------------
+UserId: 4	Username: burak_kut	Birthday: 27.8.1973
+Followers: 0	Posts: 2
+Posts:
+	PostId: 4
+		Author: burak_kut
+		Content: Benimle oynama soyledim sana, sansini zorlama ugurlar olsun
+	PostId: 5
+		Author: burak_kut
+		Content: Yasandi bitti saygisizca, aldatmanin tadina varinca
+--------------------
+UserId: 6	Username: baris_manco	Birthday: 2.1.1943
+Followers: 1	Posts: 4
+Followers:
+	Username: burak_kut
+Posts:
+	PostId: 2
+		Author: baris_manco
+		Content: Ayrilik geldi basa katlanmak gerek, seni cok cok ozledim arkadasim esek
+	PostId: 1
+		Author: baris_manco
+		Content: Unutma ki dunya fani veren Allah alir cani. Ben nasil unuturum seni can bedenden cikmayinca
+	PostId: 6
+		Author: baris_manco
+		Content: Hava ayaz mi ayaz ellerim ceplerimde, bir turku tutturmusum duyuyorsun degil mi?
+	PostId: 3
+		Author: baris_manco
+		Content: Guz yagmurlariyla bir gun goctun gittin sen inanamadik gulpembe
+--------------------
+UserId: 3	Username: yasar	Birthday: 5.4.1970
+Followers: 0	Posts: 1
+Posts:
+	PostId: 12
+		Author: yasar
+		Content: Donuyor aman dunya basim duman, batiyor ama acitmiyor senin sevdan
+##### ALL POSTS #####
+Number of posts: 7
+	PostId: 1
+		Author: baris_manco
+		Content: Unutma ki dunya fani veren Allah alir cani. Ben nasil unuturum seni can bedenden cikmayinca
+	PostId: 2
+		Author: baris_manco
+		Content: Ayrilik geldi basa katlanmak gerek, seni cok cok ozledim arkadasim esek
+	PostId: 3
+		Author: baris_manco
+		Content: Guz yagmurlariyla bir gun goctun gittin sen inanamadik gulpembe
+	PostId: 4
+		Author: burak_kut
+		Content: Benimle oynama soyledim sana, sansini zorlama ugurlar olsun
+	PostId: 5
+		Author: burak_kut
+		Content: Yasandi bitti saygisizca, aldatmanin tadina varinca
+	PostId: 6
+		Author: baris_manco
+		Content: Hava ayaz mi ayaz ellerim ceplerimde, bir turku tutturmusum duyuyorsun degil mi?
+	PostId: 12
+		Author: yasar
+		Content: Donuyor aman dunya basim duman, batiyor ama acitmiyor senin sevdan
